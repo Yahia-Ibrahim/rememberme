@@ -1,16 +1,16 @@
-# rememberme
+# RememberMe
 
-A new Flutter project.
+RememberMe is a mobile application designed to help users save and translate difficult words from books they are currently reading. It also includes a quiz feature to test vocabulary retention.
+The name is inspired by 2017 Disney Coco movie's song, remember me.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Word Translation**: Save words from books and get translations.
+- **Quiz Mode**: Take quizzes on saved words to reinforce learning.
+- **Book Search**: Search for new books using the Google Books API and fetch books with their author names and cover photos.
+- **currently reading list**: for ease of access.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo Video
+Watch the demo video to see RememberMe in action:
+https://github.com/user-attachments/assets/e9b86e55-5e82-40b3-be4d-99d5e3662897
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
